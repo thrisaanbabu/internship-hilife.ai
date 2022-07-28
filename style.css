@@ -1,0 +1,16 @@
+*{
+    background-color: blue;
+}
+p::first-letter{
+    color: black;
+}
+a{
+    color: rgb(209, 255, 205) ;
+    font-size:large;   
+}
+*{
+    background-color: brown;
+}
+.rrr{
+    color: green;
+}
